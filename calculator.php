@@ -10,7 +10,7 @@ echo "Welke operatie wil je uitvoeren? (+, -)\n";
 if ($uitvoering === '+' || $uitvoering === '-'){
 }
 else {
-    echo "NO!";
+    echo "Allen + of -!";
     return;
 }
 echo "Eerste getal?\n";
